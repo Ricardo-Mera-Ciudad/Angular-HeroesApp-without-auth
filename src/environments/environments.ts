@@ -1,5 +1,5 @@
 
 
 export const environments = {
-  baseUrl: 'https://heroes-app-json-server.vercel.app/'
+  baseUrl: 'https://heroes-app-json-server.vercel.app'
 }
